@@ -1,0 +1,4 @@
+alarm app (mobile failed)
+wallpaper (both failed)
+EMI worked
+BMI worked (minSDK 19 for mobile)
